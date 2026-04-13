@@ -21,5 +21,5 @@ class Aimery {
 ```
 
 <div align="center">
-    <img src="wakatime/stats.svg?v=1" height="800"/>
+    <img src="wakatime/stats.svg?v=20260413" height="800"/>
 </div>
