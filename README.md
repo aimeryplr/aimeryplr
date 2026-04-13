@@ -3,20 +3,20 @@
 ```ts
 export class Aimery extends TeaDrinker {
   // Person
-  first_name: string = "Aimery";
-  last_name: string = "Pellerin";
+  firstName: string = "Aimery";
+  lastName: string = "Pellerin";
   age: number = 20;
 
   // Coding Skills
-  technologies: string[] = ["React", "NestJS", "Mangoose", "GraphQL", "Flutter"];
+  technologies: string[] = ["React", "NestJS", "Mongoose", "GraphQL", "Flutter"];
   softSkills: string[] = ["Critical Thinking", "Teamwork", "Patience", "Curiosity"];
 
   // experiences
   experiences: Experience[] = [
     {
       company: "Mobiteach",
-      job: "Full stack developper",
-      period: "April - Now"
+      job: "Full stack developer",
+      period: "April 2025 - Present"
     }
   ]
 
@@ -25,7 +25,7 @@ export class Aimery extends TeaDrinker {
   course: string = "Computer Science: Application Development Track";
 
   // Personal
-  hobbies: string[] = ["Acting", "Motorcylcle", "Running", "Scuba diving"]
+  hobbies: string[] = ["Acting", "Motorcycle", "Running", "Scuba diving"]
 }
 ```
 
