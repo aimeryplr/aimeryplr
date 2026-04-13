@@ -9,7 +9,7 @@ class Aimery {
 
   // Coding Skills
   technologies: string[] = ["React", "NestJS", "Mangoose", "GraphQL", "Flutter"];
-  softSkills: string[] = ["Problem Solving", "Critical Thinking", "Teamwork", "Patience", "Curiosity"];
+  softSkills: string[] = ["Critical Thinking", "Teamwork", "Patience", "Curiosity"];
 
   // Experiences
   school: string = "IUT2 Grenoble";
