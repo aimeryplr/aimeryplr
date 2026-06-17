@@ -30,5 +30,5 @@ export class Aimery extends TeaDrinker {
 ```
 
 <div align="center">
-    <img src="wakatime/stats.svg?v=20260616" height="800"/>
+    <img src="wakatime/stats.svg?v=20260617" height="800"/>
 </div>
