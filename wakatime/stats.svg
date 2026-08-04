@@ -65,7 +65,7 @@
 <line x1="269" y1="141.07142857142856" x2="187.48087003184398" y2="167.55859951785263" stroke="#656565" stroke-width="0.5"/>
 <line x1="269" y1="141.07142857142856" x2="187.48087003184395" y2="114.5842576250045" stroke="#656565" stroke-width="0.5"/>
 <line x1="269" y1="141.07142857142856" x2="218.6184069463594" y2="71.72711476786164" stroke="#656565" stroke-width="0.5"/>
-<polygon points="269,55.35714285714283 299.26445001536496,99.41598673727668 301.4370397638116,130.53199546467619 297.8773053515629,150.45423385428325 285.4028141034733,163.64796534829875 269,167.59085908092067 254.73173594921545,160.7100092474372 247.94837162437327,147.91151726844524 248.9903189861078,134.56988909467736 257.10178935938006,124.69494655972152" fill="#5ccfe6" fill-opacity="0.2" stroke="#5ccfe6" stroke-width="2"/>
+<polygon points="269,55.35714285714283 299.25500548818076,99.42898601374044 301.426917243704,130.53528447083465 297.8682937060428,150.4513057931583 285.3976953313291,163.64091996286447 269,167.58258324963248 254.7361885993588,160.7038807002817 247.95494113666788,147.90938270450607 248.99656334132285,134.571918008677 257.10550239476584,124.7000571144966" fill="#5ccfe6" fill-opacity="0.2" stroke="#5ccfe6" stroke-width="2"/>
 <text font-family="Ubuntu" x="269" y="35.35714285714283" font-size="10" text-anchor="middle" alignment-baseline="middle" fill="#dddddd">client</text>
 <text font-family="Ubuntu" x="331.13729809949" y="55.546774880362676" font-size="10" text-anchor="middle" alignment-baseline="middle" fill="#dddddd">korid…</text>
 <text font-family="Ubuntu" x="369.54026029405907" y="108.40391773750554" font-size="10" text-anchor="middle" alignment-baseline="middle" fill="#dddddd">video…</text>
@@ -82,7 +82,7 @@
               </text>
               <rect x="185" y="272.5" width="78" height="14" fill="#5ccfe6" fill-opacity="0.70" />
               <text font-family="Ubuntu" x="224" y="283.5" font-size="9" text-anchor="middle" fill="#dddddd">
-                272:27 (24.9%)
+                272:32 (24.9%)
               </text>
             
 
@@ -166,6 +166,6 @@
                 64:20 (5.9%)
               </text>
             
-      <text font-family="Ubuntu" x="265" y="412.5" font-size="12" text-anchor="middle" fill="#dddddd"><tspan font-weight="bold">Total:</tspan> 1,712 hrs 43 mins</text>
+      <text font-family="Ubuntu" x="265" y="412.5" font-size="12" text-anchor="middle" fill="#dddddd"><tspan font-weight="bold">Total:</tspan> 1,714 hrs 27 mins</text>
       </g>
 </svg>
