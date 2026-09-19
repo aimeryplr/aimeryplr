@@ -21,10 +21,10 @@
   <g transform="translate(20, 56) scale(1)">
         <text font-family="Ubuntu" x="67" y="41.5" font-size="10" text-anchor="end" fill="#dddddd">TypeScript</text>
 <rect x="75" y="32.5" width="340" height="12" fill="#5ccfe6" rx="2" ry="2" />
-<text font-family="Ubuntu" x="421" y="41.5" font-size="9" fill="#dddddd">1219:01    |    74.3%</text>
+<text font-family="Ubuntu" x="421" y="41.5" font-size="9" fill="#dddddd">1219:01    |    74.2%</text>
 <text font-family="Ubuntu" x="67" y="65.5" font-size="10" text-anchor="end" fill="#dddddd">JSON</text>
-<rect x="75" y="56.5" width="22.84166325961865" height="12" fill="#5ccfe6" rx="2" ry="2" />
-<text font-family="Ubuntu" x="103.84166325961866" y="65.5" font-size="9" fill="#dddddd">81:53    |    5.0%</text>
+<rect x="75" y="56.5" width="23.11085317226041" height="12" fill="#5ccfe6" rx="2" ry="2" />
+<text font-family="Ubuntu" x="104.1108531722604" y="65.5" font-size="9" fill="#dddddd">82:51    |    5.0%</text>
 <text font-family="Ubuntu" x="67" y="89.5" font-size="10" text-anchor="end" fill="#dddddd">Kotlin</text>
 <rect x="75" y="80.5" width="21.498134498399573" height="12" fill="#5ccfe6" rx="2" ry="2" />
 <text font-family="Ubuntu" x="102.49813449839957" y="89.5" font-size="9" fill="#dddddd">77:04    |    4.7%</text>
@@ -41,8 +41,8 @@
 <rect x="75" y="176.5" width="8.02428949334206" height="12" fill="#5ccfe6" rx="2" ry="2" />
 <text font-family="Ubuntu" x="89.02428949334205" y="185.5" font-size="9" fill="#dddddd">28:46    |    1.8%</text>
 <text font-family="Ubuntu" x="67" y="209.5" font-size="10" text-anchor="end" fill="#dddddd">Markdown</text>
-<rect x="75" y="200.5" width="7.957990779385881" height="12" fill="#5ccfe6" rx="2" ry="2" />
-<text font-family="Ubuntu" x="88.95799077938588" y="209.5" font-size="9" fill="#dddddd">28:31    |    1.7%</text>
+<rect x="75" y="200.5" width="8.01630719392654" height="12" fill="#5ccfe6" rx="2" ry="2" />
+<text font-family="Ubuntu" x="89.01630719392654" y="209.5" font-size="9" fill="#dddddd">28:44    |    1.8%</text>
 <text font-family="Ubuntu" x="67" y="233.5" font-size="10" text-anchor="end" fill="#dddddd">C++</text>
 <rect x="75" y="224.5" width="4.93877749838536" height="12" fill="#5ccfe6" rx="2" ry="2" />
 <text font-family="Ubuntu" x="85.93877749838536" y="233.5" font-size="9" fill="#dddddd">17:42    |    1.1%</text>
