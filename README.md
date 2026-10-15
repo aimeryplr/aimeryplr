@@ -5,6 +5,7 @@ export class Aimery extends TeaDrinker {
   // Person
   firstName: string = "Aimery";
   lastName: string = "Pellerin";
+  portfolio: string = "https://aimerypellerin.fr";
   age: number = 20;
 
   // Coding Skills
