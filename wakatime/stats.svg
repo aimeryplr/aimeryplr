@@ -21,34 +21,34 @@
   <g transform="translate(20, 56) scale(1)">
         <text font-family="Ubuntu" x="67" y="41.5" font-size="10" text-anchor="end" fill="#dddddd">TypeScript</text>
 <rect x="75" y="32.5" width="340" height="12" fill="#5ccfe6" rx="2" ry="2" />
-<text font-family="Ubuntu" x="421" y="41.5" font-size="9" fill="#dddddd">1224:29    |    74.0%</text>
+<text font-family="Ubuntu" x="421" y="41.5" font-size="9" fill="#dddddd">1224:39    |    74.0%</text>
 <text font-family="Ubuntu" x="67" y="65.5" font-size="10" text-anchor="end" fill="#dddddd">JSON</text>
-<rect x="75" y="56.5" width="23.447490022450793" height="12" fill="#5ccfe6" rx="2" ry="2" />
-<text font-family="Ubuntu" x="104.4474900224508" y="65.5" font-size="9" fill="#dddddd">84:26    |    5.1%</text>
+<rect x="75" y="56.5" width="23.44441269928139" height="12" fill="#5ccfe6" rx="2" ry="2" />
+<text font-family="Ubuntu" x="104.44441269928139" y="65.5" font-size="9" fill="#dddddd">84:26    |    5.1%</text>
 <text font-family="Ubuntu" x="67" y="89.5" font-size="10" text-anchor="end" fill="#dddddd">Kotlin</text>
-<rect x="75" y="80.5" width="21.402027178173928" height="12" fill="#5ccfe6" rx="2" ry="2" />
-<text font-family="Ubuntu" x="102.40202717817392" y="89.5" font-size="9" fill="#dddddd">77:04    |    4.7%</text>
+<rect x="75" y="80.5" width="21.399218308054156" height="12" fill="#5ccfe6" rx="2" ry="2" />
+<text font-family="Ubuntu" x="102.39921830805416" y="89.5" font-size="9" fill="#dddddd">77:04    |    4.7%</text>
 <text font-family="Ubuntu" x="67" y="113.5" font-size="10" text-anchor="end" fill="#dddddd">SCSS</text>
-<rect x="75" y="104.5" width="20.66564966912468" height="12" fill="#5ccfe6" rx="2" ry="2" />
-<text font-family="Ubuntu" x="101.66564966912468" y="113.5" font-size="9" fill="#dddddd">74:25    |    4.5%</text>
+<rect x="75" y="104.5" width="20.662937443531373" height="12" fill="#5ccfe6" rx="2" ry="2" />
+<text font-family="Ubuntu" x="101.66293744353138" y="113.5" font-size="9" fill="#dddddd">74:25    |    4.5%</text>
 <text font-family="Ubuntu" x="67" y="137.5" font-size="10" text-anchor="end" fill="#dddddd">Python</text>
-<rect x="75" y="128.5" width="14.599474172590183" height="12" fill="#5ccfe6" rx="2" ry="2" />
-<text font-family="Ubuntu" x="95.59947417259018" y="137.5" font-size="9" fill="#dddddd">52:34    |    3.2%</text>
+<rect x="75" y="128.5" width="14.597558091163577" height="12" fill="#5ccfe6" rx="2" ry="2" />
+<text font-family="Ubuntu" x="95.59755809116358" y="137.5" font-size="9" fill="#dddddd">52:34    |    3.2%</text>
 <text font-family="Ubuntu" x="67" y="161.5" font-size="10" text-anchor="end" fill="#dddddd">Java</text>
-<rect x="75" y="152.5" width="14.212054219559208" height="12" fill="#5ccfe6" rx="2" ry="2" />
-<text font-family="Ubuntu" x="95.2120542195592" y="161.5" font-size="9" fill="#dddddd">51:11    |    3.1%</text>
+<rect x="75" y="152.5" width="14.210188984359498" height="12" fill="#5ccfe6" rx="2" ry="2" />
+<text font-family="Ubuntu" x="95.21018898435949" y="161.5" font-size="9" fill="#dddddd">51:11    |    3.1%</text>
 <text font-family="Ubuntu" x="67" y="185.5" font-size="10" text-anchor="end" fill="#dddddd">Markdown</text>
-<rect x="75" y="176.5" width="8.744566351182801" height="12" fill="#5ccfe6" rx="2" ry="2" />
-<text font-family="Ubuntu" x="89.7445663511828" y="185.5" font-size="9" fill="#dddddd">31:29    |    1.9%</text>
+<rect x="75" y="176.5" width="8.743418686481242" height="12" fill="#5ccfe6" rx="2" ry="2" />
+<text font-family="Ubuntu" x="89.74341868648125" y="185.5" font-size="9" fill="#dddddd">31:29    |    1.9%</text>
 <text font-family="Ubuntu" x="67" y="209.5" font-size="10" text-anchor="end" fill="#dddddd">JavaScript</text>
-<rect x="75" y="200.5" width="8.143044386069917" height="12" fill="#5ccfe6" rx="2" ry="2" />
-<text font-family="Ubuntu" x="89.14304438606992" y="209.5" font-size="9" fill="#dddddd">29:19    |    1.8%</text>
+<rect x="75" y="200.5" width="8.141975667024305" height="12" fill="#5ccfe6" rx="2" ry="2" />
+<text font-family="Ubuntu" x="89.1419756670243" y="209.5" font-size="9" fill="#dddddd">29:19    |    1.8%</text>
 <text font-family="Ubuntu" x="67" y="233.5" font-size="10" text-anchor="end" fill="#dddddd">C++</text>
-<rect x="75" y="224.5" width="4.916698714265934" height="12" fill="#5ccfe6" rx="2" ry="2" />
-<text font-family="Ubuntu" x="85.91669871426593" y="233.5" font-size="9" fill="#dddddd">17:42    |    1.1%</text>
+<rect x="75" y="224.5" width="4.916053431088249" height="12" fill="#5ccfe6" rx="2" ry="2" />
+<text font-family="Ubuntu" x="85.91605343108824" y="233.5" font-size="9" fill="#dddddd">17:42    |    1.1%</text>
 <text font-family="Ubuntu" x="67" y="257.5" font-size="10" text-anchor="end" fill="#dddddd">HTML</text>
-<rect x="75" y="248.5" width="3.172566481636679" height="12" fill="#5ccfe6" rx="2" ry="2" />
-<text font-family="Ubuntu" x="84.17256648163668" y="257.5" font-size="9" fill="#dddddd">11:25    |    0.7%</text>
+<rect x="75" y="248.5" width="3.205831468405828" height="12" fill="#5ccfe6" rx="2" ry="2" />
+<text font-family="Ubuntu" x="84.20583146840583" y="257.5" font-size="9" fill="#dddddd">11:32    |    0.7%</text>
       </g>
 <g transform="translate(0, 378.5) scale(1)">
         <path d="M 269 119.64285714285712 L 281.5953982634101 123.73535012053682 L 289.379782492039 134.44963583482254 L 289.379782492039 147.69322130803457 L 281.5953982634101 158.4075070223203 L 269 162.5 L 256.4046017365899 158.4075070223203 L 248.620217507961 147.69322130803457 L 248.620217507961 134.44963583482254 L 256.4046017365899 123.73535012053682 Z" fill="none" stroke="#656565" stroke-dasharray="2,2" stroke-width="0.5"/>
@@ -166,6 +166,6 @@
                 64:20 (5.9%)
               </text>
             
-      <text font-family="Ubuntu" x="265" y="412.5" font-size="12" text-anchor="middle" fill="#dddddd"><tspan font-weight="bold">Total:</tspan> 1,762 hrs 24 mins</text>
+      <text font-family="Ubuntu" x="265" y="412.5" font-size="12" text-anchor="middle" fill="#dddddd"><tspan font-weight="bold">Total:</tspan> 1,762 hrs 56 mins</text>
       </g>
 </svg>
